@@ -1,7 +1,7 @@
-#Fansite Project
+# Fansite Project
 
 https://christianmbonet.github.io/
 
-##Charles Baudelaire
+## Charles Baudelaire
 
 L'Homme et la mer
