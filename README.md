@@ -1,6 +1,6 @@
 # Fansite Project
 
-seamb
+Using html to create a fansite project.
 
 ## Charles Baudelaire
 
