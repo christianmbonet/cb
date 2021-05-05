@@ -1,6 +1,6 @@
 # Fansite Project
 
-https://christianmbonet.github.io/
+seamb
 
 ## Charles Baudelaire
 
